@@ -1,0 +1,8 @@
+{
+  "name": "GitHub Repo Finder",
+  "description": "A clean, fast interface to search and explore GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
