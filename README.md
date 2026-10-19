@@ -2,6 +2,8 @@
 
 GitHub Repo Finder is a web app for discovering GitHub repositories. Search by keyword, narrow results by programming language, and sort by stars, forks, or recent activity.
 
+![Github Repo Finder](lightmode.png)
+
 ## Features
 
 - Search public GitHub repositories by keyword
